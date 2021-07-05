@@ -23,3 +23,7 @@ bundle exec rake db:migrate
 You can start the rails server using the command given below.
 bundle exec rails s
 And now you can visit the site with the URL  http://localhost:3000
+
+Home Page 
+![image](https://user-images.githubusercontent.com/81669250/124485109-de240680-ddc9-11eb-91d6-75c3aa8fa6f4.png)
+
