@@ -1,24 +1,23 @@
 # README
+The setups steps expect following tools installed on the system.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+    • Ruby 2.4.2
+    • Rails 5.7.0
 
-Things you may want to cover:
+Create database.yml file
+Copy the sample database.yml file and edit the database configuration as required.
+cp config/database.yml  or  config/database.yml
 
-* Ruby version
+Create the database
+Run the following commands to create the database.
+bundle exec rake db:create
 
-* System dependencies
 
-* Configuration
+Migrate the database
+Run the following commands to migrate the database.
+bundle exec rake db:migrate
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ Start the Rails server
+You can start the rails server using the command given below.
+bundle exec rails s
+And now you can visit the site with the URL  http://localhost:3000
