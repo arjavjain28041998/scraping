@@ -10,7 +10,7 @@ cp config/database.yml  or  config/database.yml
 
 Create the database
 Run the following commands to create the database.
-    • bundle exec rake db:create
+    • Bundle exec rake db:create
 
 
 
