@@ -27,3 +27,8 @@ And now you can visit the site with the URL  http://localhost:3000
 Home Page 
 ![image](https://user-images.githubusercontent.com/81669250/124485109-de240680-ddc9-11eb-91d6-75c3aa8fa6f4.png)
 
+Product List 
+
+![image](https://user-images.githubusercontent.com/81669250/124485284-0ad81e00-ddca-11eb-9c30-ff140f46b060.png)
+
+
