@@ -25,10 +25,9 @@ bundle exec rails s
 And now you can visit the site with the URL  http://localhost:3000
 
 Home Page 
-![image](https://user-images.githubusercontent.com/81669250/124485109-de240680-ddc9-11eb-91d6-75c3aa8fa6f4.png)
+recent:///5244ed4ec707aa0fa8e170d960e3fa50
 
 Product List 
-
-![image](https://user-images.githubusercontent.com/81669250/124485284-0ad81e00-ddca-11eb-9c30-ff140f46b060.png)
+recent:///be12a476e47b32482c2c356e60e3fafa
 
 
