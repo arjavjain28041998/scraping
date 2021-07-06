@@ -8,18 +8,21 @@ DATABASE:
 we have use the postgresql Database for this project
 
 TECHNOLOGIES:
-Java SCript for the image crop
 Rails for backend
 
 
 DESCRIPTION:
-This project is used for Crop the image.First upload the Image and then crop the Image.
-You can also the Destroy of the image that you can uploaded.
+This project is like E-Comerce website .
+We have Upload the List of Products and Catogries of Products .
+For full Description of product use the url of Flipkart so click on that open the Full Description of Product
 
-Home Page
-![image](https://user-images.githubusercontent.com/81669250/124554870-0fe1af80-de54-11eb-82e8-5edb3dbe9991.png)
 
-Uploading the Image
+Home Page:
+![image](https://user-images.githubusercontent.com/81669250/124558179-f2aee000-de57-11eb-8fe0-8db59d2771c4.png)
 
-![image](https://user-images.githubusercontent.com/81669250/124554935-2556d980-de54-11eb-81f4-9c15b66ea10d.png)
+
+List Of Particular Product:
+
+![image](https://user-images.githubusercontent.com/81669250/124558320-18d48000-de58-11eb-9a2b-5c0087f5445c.png)
+
 
