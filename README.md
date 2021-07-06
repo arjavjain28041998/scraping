@@ -24,10 +24,10 @@ You can start the rails server using the command given below.
 bundle exec rails s
 And now you can visit the site with the URL  http://localhost:3000
 
-Home Page 
-recent:///5244ed4ec707aa0fa8e170d960e3fa50
+Home Page
+![image](https://user-images.githubusercontent.com/81669250/124554870-0fe1af80-de54-11eb-82e8-5edb3dbe9991.png)
 
 Product List 
-recent:///be12a476e47b32482c2c356e60e3fafa
 
+![image](https://user-images.githubusercontent.com/81669250/124554935-2556d980-de54-11eb-81f4-9c15b66ea10d.png)
 
