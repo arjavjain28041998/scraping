@@ -1,0 +1,11 @@
+efault: &default
+  adapter: postgresql
+  encoding: utf8
+  pool: 5
+
+development:
+  <<: *default
+  username: postgres
+  password: 123456
+  host: localhost
+  database: scaping
